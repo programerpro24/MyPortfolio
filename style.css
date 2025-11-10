@@ -387,6 +387,11 @@ h3{
 .project-box label{
     font-size: 15px;
     color: #777;
+    text-align: center;
+}
+
+.project-box h3{
+     text-align: center;
 }
 
 .project-box a{
